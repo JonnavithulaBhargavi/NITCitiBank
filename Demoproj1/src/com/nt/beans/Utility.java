@@ -7,12 +7,18 @@ public class Utility {
 	{
 		return new Date();
 	}
+	public void m2() {
+		System.out.println("m2");
+	}
 	public void m1() {
+		
 		
 
 		
 		System.out.println("Utility m1() method:1234");
 		System.out.println("abc123");
+	
+	
 		
 
 	}
